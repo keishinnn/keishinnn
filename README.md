@@ -1,6 +1,5 @@
 <img align="center" alt="Coding" width="full" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYxMzI4MTAsIm5iZiI6MTc1NjEzMjUxMCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODI1VDE0MzUxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1M2VlMmM5NDIyYTZmMTI1ZGVlZTc3N2E2ZjBiOWNjMDIxZjYwYWI3Zjk1MjYzZDNhZWQzMTE2NTA5YWNlMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bhIcT3V9UpWaGlUocr1Y4RWsi34ZJFDDlYGY2hnOIro">
 <h1 align="center">Hi 👋, I'm Tenshin Ponteres</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keishinnn&label=Profile%20views&color=0e75b6&style=flat" alt="keishinnn" /> </p>
@@ -17,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keishinnn&show_icons=true&locale=en&layout=compact" alt="keishinnn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keishinnn&show_icons=true&locale=en" alt="keishinnn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keishinnn&" alt="keishinnn" /></p>
