@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="full" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Tenshin;A+passionate+front-end+developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Tenshin;A+passionate+front-end+developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keishinnn&label=Profile%20views&color=0e75b6&style=flat" alt="keishinnn" /> </p>
 
