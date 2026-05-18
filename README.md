@@ -1,56 +1,48 @@
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Tenshin%20Ponteres&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50" />
-
+<img align="center" alt="Coding" width="full" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <div align="center">
-
-# 👋 Hey, I'm Tenshin Ponteres
-
-### Full-Stack Developer passionate about building scalable and secure web applications.
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Tenshin+Ponteres;A+full-stack+developer" alt="Typing SVG" />
 </div>
 
----
+- 🌱 I'm currently learning **Typescript and Nextjs**
 
-- 🌱 Currently learning **TypeScript, Next.js, and System Design**
-- 🤝 Exploring **scalable architectures and backend engineering**
-- 📫 Reach me at **tenshin.ponteres135@gmail.com**
-- 🌐 Portfolio: **https://www.tenshinponteres.dev/**
+- 🤝 I'm looking for help with **learning system designs**
 
----
+- 📫 How to reach me **tenshin.ponteres135@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://www.tenshinponteres.dev/](https://www.tenshinponteres.dev/)**
 
 # 💻 Tech Stack
 
-### Frontend
+## Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,java,html,css,mysql" />
 </p>
 
-### Backend & Database
+## Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,supabase,postgres,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-### Tools & DevOps
+## Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,redis" />
 </p>
 
-### Currently Exploring
+## Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,java" />
+  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,vercel" />
 </p>
 
----
+## State Management, Validation & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetStream-005FFF?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=redis&logoColor=black" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
