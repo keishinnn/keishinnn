@@ -15,7 +15,7 @@
 
 ## Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,java,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,java" />
 </p>
 
 ## Frontend Development
@@ -25,7 +25,7 @@
 
 ## Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,redis" />
 </p>
 
 ## Tools & Platforms
